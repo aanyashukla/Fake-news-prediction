@@ -5,9 +5,6 @@ It processes raw text data, vectorizes it using TF-IDF, and builds a binary clas
 
 ---
 
-
----
-
 ## 📥 Dataset
 
 Due to GitHub file size limits, the full dataset is not included.  
